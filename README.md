@@ -6,6 +6,8 @@ This project involves building a comprehensive **Power BI dashboard** using the 
 
 ![alt text](image-2.png)
 
+doc_2024-09-17_16-37-58.mp4
+
 
 ## Features
 
