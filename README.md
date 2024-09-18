@@ -4,8 +4,13 @@
 
 This project involves building a comprehensive **Power BI dashboard** using the **AdventureWorks2022** dataset. The dashboard provides insights into total sales, customer distribution, and sales prediction using a **linear regression model** for **TotalDue** prediction.
 
-![alt text](image-2.png)
+![alt text](image.png)
 
+![alt text](image-1.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 ## Features
 
