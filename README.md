@@ -10,7 +10,7 @@ This project involves building a comprehensive **Power BI dashboard** using the 
 
 ![alt text](image-3.png)
 
-<!-- ![alt text](image-4.png) -->
+![alt text](image-4.png)
 
 
 ## Features
